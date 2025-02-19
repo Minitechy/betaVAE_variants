@@ -11,7 +11,7 @@ The results for training
     https://drive.google.com/file/d/1DKHfo8uvG0gLmN6u-8rjY4RW5SM1YuHw/view?usp=sharing
 
 4. $\gamma\beta$-VAE can be found at the following link:
-   - betaVAE_MC_train.ipynb:
+   - betaVAE_MC_train.ipynb: https://drive.google.com/file/d/1pCecE40WWUCcgeIg9IVd86V-qrTLXBBO/view?usp=sharing
    - betaVAE_VLB_train.ipynb: https://drive.google.com/file/d/17xMIlqdK-_2IXrfMLQaVzgosxqAG2GRz/view?usp=sharing
    
 
