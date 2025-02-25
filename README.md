@@ -12,7 +12,9 @@ The results for training
     - $\beta=[1, 2, 4]$: https://drive.google.com/file/d/1f_UynNv4t-I-PXW3zfc0-yyoSNRyNhU1/view?usp=sharing
 
 5. $\gamma\beta$-VAE can be found at the following link:
-   - betaVAE_MC_train.ipynb: https://drive.google.com/file/d/1pCecE40WWUCcgeIg9IVd86V-qrTLXBBO/view?usp=sharing
+   - betaVAE_MC_train.ipynb:
+     - All $\beta$ values: https://drive.google.com/file/d/1pCecE40WWUCcgeIg9IVd86V-qrTLXBBO/view?usp=sharing
+     - $\beta=[1, 2, 4]$: https://drive.google.com/file/d/1WL9eWGq2NeiKS9zjjq_0SOwkh99MqTs_/view?usp=sharing
    - betaVAE_VLB_train.ipynb: https://drive.google.com/file/d/17xMIlqdK-_2IXrfMLQaVzgosxqAG2GRz/view?usp=sharing
    
 
