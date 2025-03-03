@@ -4,8 +4,7 @@ The results for training
    https://drive.google.com/file/d/1uThj2zB1iKGwUw2KSAvGOAIFJgR2YEPt/view?usp=sharing
 
 3. $\beta$-VAE-v1 (betaVAE_train_v1.ipynb) can be found at the following link:
-    - 50 epochs: https://drive.google.com/file/d/1I2nzzGm2jKaxVfEf2h3vxyyZzQM7z3s0/view?usp=sharing
-    - 10 epochs: https://drive.google.com/file/d/1jXNPpo0DYlDfFMXHoJyqX6SwisYkIsiw/view?usp=sharing
+   https://drive.google.com/file/d/1LNRSRvieZzuaHV4yzzEIrwBOBegUv106/view?usp=sharing
    
 4. $\lambda\beta$-VAE (betaVAE_recon_train.ipynb) can be found at the following link:
     - All $\beta$ values: https://drive.google.com/file/d/1DKHfo8uvG0gLmN6u-8rjY4RW5SM1YuHw/view?usp=sharing
