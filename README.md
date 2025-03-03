@@ -7,8 +7,7 @@ The results for training
    https://drive.google.com/file/d/1LNRSRvieZzuaHV4yzzEIrwBOBegUv106/view?usp=sharing
    
 4. $\lambda\beta$-VAE (betaVAE_recon_train.ipynb) can be found at the following link:
-    - All $\beta$ values: https://drive.google.com/file/d/1DKHfo8uvG0gLmN6u-8rjY4RW5SM1YuHw/view?usp=sharing
-    - $\beta=[1, 2, 4]$: https://drive.google.com/file/d/1f_UynNv4t-I-PXW3zfc0-yyoSNRyNhU1/view?usp=sharing
+   https://drive.google.com/file/d/1fZ-N0Vek4sJv2L2Z04MgqntbVqDI7QKt/view?usp=sharing
 
 5. $\gamma\beta$-VAE can be found at the following link:
    - betaVAE_MC_train.ipynb:
