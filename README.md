@@ -13,7 +13,7 @@ The results for training
    - betaVAE_MC_train.ipynb:
      - All $\beta$ values: https://drive.google.com/file/d/1pCecE40WWUCcgeIg9IVd86V-qrTLXBBO/view?usp=sharing
      - $\beta=[1, 2, 4]$: https://drive.google.com/file/d/1WL9eWGq2NeiKS9zjjq_0SOwkh99MqTs_/view?usp=sharing
-   - betaVAE_VLB_train.ipynb: https://drive.google.com/file/d/17xMIlqdK-_2IXrfMLQaVzgosxqAG2GRz/view?usp=sharing
+   - betaVAE_VLB_train.ipynb: https://drive.google.com/file/d/1roQc5qTifdYv3YjqXjuNlkGI0ba9VjPU/view?usp=sharing
    
 
 
