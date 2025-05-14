@@ -13,6 +13,9 @@ The results for training
 5. $\gamma\beta$-VAE can be found at the following link:
    - betaVAE_VLB_train.ipynb: https://drive.google.com/file/d/1roQc5qTifdYv3YjqXjuNlkGI0ba9VjPU/view?usp=sharing
   
+6. lambda_beta_VAE_linear.ipynb: https://drive.google.com/file/d/1zau7oPc2kumMsqTXv2LlAllnMeca209b/view?usp=share_link
+7. lambda_gamma_beta_VAE_linear.ipynb: https://drive.google.com/file/d/1UCLiklWjYfFKDDk9D7oHvMtaI53fq9z4/view?usp=share_link
+  
    
 
 
